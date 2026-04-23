@@ -1,1 +1,1 @@
-# Deep-Learning-Assisted-Congestion-Control-in-Wireless-Sensor-Networks
+This project proposes a deep learning–based congestion control system for Wireless Sensor Networks  that predicts network congestion using parameters like queue size, delay, and energy. It then applies adaptive techniques such as rate control, load balancing, and packet prioritization to improve throughput, reduce delay, and enhance overall network efficiency.
